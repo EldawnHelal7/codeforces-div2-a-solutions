@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 // Problem: https://codeforces.com/contest/344/problem/A
-// Tags: Implementation, Brute force
+// Tags: Implementation.
 
 int main(){
  int n;
