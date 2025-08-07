@@ -1,6 +1,5 @@
 #include <algorithm>
 #include<iostream>
-#include <numeric>
 using namespace std;
 // Problem: http://codeforces.com/contest/732/problem/A
 // Tags: Implementation, Brute force
