@@ -1,10 +1,6 @@
 # Codeforces Div2 A Solutions
 
-This repository contains my solutions to Codeforces Division 2 A problems.
-Each file corresponds to a specific problem I've solved in C++.
-
 ## Solved Problems:
-
-- 266A - Stones on the Table.cpp
-- 344A - Magnets.cpp
-- 732A - Buy a Shovel.cpp
+- [266A - Stones on the Table](https://codeforces.com/contest/266/problem/A)
+- [344A - Magnets](https://codeforces.com/contest/344/problem/A)
+- [732A - Buy a Shovel](http://codeforces.com/contest/732/problem/A)
